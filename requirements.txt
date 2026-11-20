@@ -1,2 +1,2 @@
 requests~=2.27.1
-git+https://github.com/anthonyyya/Panopto-Video-DL-lib@fix/byterange-hls#egg=PanoptoDownloader
+git+https://github.com/anthonyyya/Panopto-Video-DL-lib@master#egg=PanoptoDownloader
